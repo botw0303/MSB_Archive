@@ -1,0 +1,100 @@
+﻿,마왕성 부지,Castle,None,smile,FALSE,None,None
+타르트,저기요 의뢰주님~,Castle,None,smile,FALSE,None,None
+타르트,의 뢰 주 님 ~,Castle,None,smile,FALSE,None,None
+타르트,이상하다.. 안계시나?,Castle,None,embrass,TRUE,None,None
+,...,Castle,None,normal,FALSE,None,None
+타르트,아 무셔,Castle,None,cutesad,TRUE,Sad,None
+타르트,여기 분위기 왜이래? 너무 무서운데?,Castle,None,cutesad,FALSE,None,None
+타르트,마왕 죽은지 꽤 됐는데도 여긴 나아지지가 않네,Castle,None,cutesad,FALSE,None,None
+타르트,흐.. 의뢰주님은 언제 오시려나..?,Castle,None,hesitate,FALSE,None,None
+???,...,Castle,None,normal,FALSE,None,None
+타르트,?! 인기척?,Castle,None,embrass,TRUE,Idea,None
+타르트,아 의뢰주님?!,Castle,None,smile,FALSE,None,None
+???,먀?,Castle,None,curious,FALSE,None,None
+타르트,가 아니라 꼬마잖아!,Castle,None,surprise,FALSE,None,None
+???,의뢰주가 뭐야?,Castle,None,curious,FALSE,None,None
+타르트,몰라도 되거든? 이 꼬맹아!,Castle,None,angry,FALSE,None,None
+???,뭐? 나 꼬맹이 아니거든? 나이도 어린게!,Castle,None,angry,FALSE,None,None
+타르트,나이? 에게~~ 쪼맨한게 혹시 10살은 먹었나?,Castle,None,smile,FALSE,None,None
+???,10살 이러네! 이몸은 783살이시다!,Castle,None,angry,FALSE,Shock,None
+타르트,네네~ 783살 그래그래~ 그럼 난 1000살이다~,Castle,None,smile,FALSE,None,None
+???,으으.. 진짜라고!!,Castle,None,cutesad,FALSE,None,None
+타르트,아 그렇구나~,Castle,None,normal,FALSE,None,None
+타르트,아! 그나저나 너 혹시 이 주변에 사니?,Castle,None,normal,FALSE,None,None
+???,어.. 살기야 이 주변에 살긴 하지?,Castle,None,hesitate,FALSE,None,None
+타르트,그럼 혹시 이 퀘스트 의뢰한 사람 누군지 알아??,Castle,None,smile,FALSE,None,None
+???,아~ 이거~,Castle,None,smile,FALSE,None,None
+???,난뎅?,Castle,None,surprise,FALSE,None,None
+타르트,아~ 너가..,Castle,None,smile,FALSE,None,None
+타르트,거짓말 그만 쳐!! 안속거든?!,Castle,None,angry,FALSE,None,None
+???,아 답답해!! 아니라고!! 나 783살 인것도 맞고 퀘스트 신청한것도 맞거든?,Castle,None,sad,TRUE,None,None
+타르트,그래? 그럼 증명해 봐!,Castle,None,smile,FALSE,None,None
+???,진짜? 진짜로? 진짜 한다?,Castle,None,angry,FALSE,None,None
+타르트,풉 뭐래 증명하지도 못하면서,Castle,None,smile,FALSE,None,None
+???,...,Castle,None,angry,FALSE,None,None
+???,후..,Castle,None,angry,FALSE,None,None
+???,[마왕] 크림슨 드 브륄레의 이름에 따라 이름 모를 기사를 정당한 계약의 이행자로 임명한다.,Castle,None,normal,TRUE,None,None
+타르트,오~ 뭐야? 너 혹시 중2병..,Castle,None,smile,FALSE,None,None
+타르트,으아아악!! 뭐야 이거?,Castle,None,surprise,FALSE,Shock,None
+타르트,왜 퀘스트에서 빛이 나는건데?!,Castle,None,surprise,FALSE,None,None
+???,흥! 너 방금 [마왕]과 계약한거야! 어때? 이제 정신이 좀 들어?,Castle,None,smile,FALSE,None,None
+타르트,에..어.. 음? 마왕이요? 덱이요? 에이~ 농담도!,Castle,None,hesitate,FALSE,None,None
+???,큭큭큭 퀘스트나 보라고!,Castle,None,smile,FALSE,Happy,None
+타르트,뭐야!!,Castle,None,embrass,TRUE,None,None
+타르트,브로콜리? 계약을 이행하지 못하면 평생 브로콜리만 먹어야 한다고??,Castle,None,cutesad,FALSE,None,None
+타르트,안돼 안돼 안돼..!! 브로콜리만 계속 먹으면 나 진짜 죽을수도 있다고!!,Castle,None,cutesad,FALSE,None,None
+???,말했잖아! 마왕과의 계약이라고! (조금 개인적인 감정을 넣긴 했지만),Castle,None,smile,FALSE,None,None
+타르트,죄송해요! 죄송합니다!,Castle,None,sad,FALSE,Sad,None
+???,크흠! 소개하지! 이몸은 마왕 크림슨 드 브뤨..,Castle,None,smile,FALSE,None,None
+크림,아 또 꼬였다.. 어쨌든 줄여서 크림이야!,Castle,None,hesitate,FALSE,None,None
+크림,크흠..이젠 너의 상사니까 잘 기억해 두도록 해,Castle,None,smile,FALSE,None,None
+타르트,(이런놈이 진짜 마왕이라고? 요 꼬맹이가?),Castle,None,cutesad,TRUE,Sweat,None
+타르트,크윽.. 괜히 수상한 퀘스트를 수락해서 이게 무슨꼴이야..,Castle,None,sad,FALSE,None,None
+크림,그러게 마왕 영지에서 모르는 마족한테 까불래니? 꼴이 좋아 아주!,Castle,None,smile,FALSE,None,None
+타르트,큭.. 그럼 난 이제 어떻게 되는거야? 역시 평생 노예로 부려먹히다가 죽는..,Castle,None,sad,FALSE,None,None
+크림,뭐?! 아니야!! 그건 아니거든? 무슨 내가 악덕 고용주인줄 알아?,Castle,None,surprise,FALSE,None,None
+타르트,엥? 그럼 뭘 해야하는데..?,Castle,None,surprise,FALSE,None,None
+크림,케이크! 케이크만 만들어 주면 얌전히 풀어줄게!,Castle,None,smile,TRUE,None,None
+타르트,케이크.. 진짜 어지간히 먹고싶나보구나,Castle,None,hesitate,FALSE,None,None
+크림,응응!! 엄청~ 엄청 먹고싶어! 엄마가 만들어준 특제 케이크!,Castle,None,smile,FALSE,None,None
+타르트,어..? 혹시 나보고 너희 어머니가 만들어 준 걸 똑같이 만들라는거야?,Castle,None,surprise,FALSE,None,None
+크림,응 맞아!,Castle,None,smile,FALSE,None,None
+타르트,...,Castle,None,hesitate,FALSE,Think,None
+타르트,혹시 레시피가 있을까?,Castle,None,smile,FALSE,None,None
+크림,없는뎅?,Castle,None,smile,FALSE,None,None
+타르트,그..러면 어떻게 만들라는걸까?,Castle,None,hesitate,FALSE,None,None
+크림,뭐야~ 요리사면서 그것도 못해?,Castle,None,angry,FALSE,None,None
+타르트,저기요!! 난 소드마스터지 요리사가 아니거든??,Castle,None,angry,FALSE,None,None
+크림,그래서 못해?,Castle,None,sad,FALSE,None,None
+타르트,당근 못하지! 난 그냥 케이크도 만드는 법 모른다고!,Castle,None,angry,FALSE,None,None
+크림,큭큭 그럼 이제 평생 브로콜리밖에 못먹겠네?,Castle,None,smile,FALSE,None,None
+타르트,뭐? 야!! 이거 사기계약 아니야? 물어내! 물어 내라고!!,Castle,None,angry,TRUE,None,None
+크림,안돼! 너가 시작한거야!,Castle,None,angry,FALSE,None,None
+크림,...,Castle,None,sad,FALSE,Think,None
+타르트,흐극 흐극..,Castle,None,cutesad,FALSE,None,None
+크림,으에..?,Castle,None,surprise,FALSE,Curious,None
+타르트,흑.. 으아아아앙!!!!!,Castle,None,cutesad,TRUE,None,None
+크림,뭐야! 설마 건방진 소리는 다 해놓고 우는거야?,Castle,None,surprise,FALSE,None,None
+타르트,검도 다 낡았고! 허리도 쑤시고! 돈도 없는데!!,Castle,None,cutesad,FALSE,None,None
+타르트,이게 마지막 기회라고 생각했는데!!,Castle,None,cutesad,FALSE,None,None
+타르트,이게 뭐야!! 평생 브로콜리만 먹으라고?? 진짜 너무한거 아니야!!,Castle,None,cutesad,FALSE,None,None
+타르트,으아아앙!!!,Castle,None,cutesad,FALSE,None,None
+크림,(으아 완전 유리멘탈 이잖아..! 브로콜리를 계속 먹게 하는 벌칙은 너무 심했나?),Castle,None,curious,FALSE,None,None
+크림,그.. 그만 울어!! 일단 계약으로 성립 된 건 물을 수 없으니까..!,Castle,None,embrass,FALSE,None,None
+타르트,어쩌라는거야 그럼!! 으아아아아앙!!!,Castle,None,cutesad,FALSE,None,None
+크림,그만 울어!! 케이크만 잘 만들어 주면 금화든 뭐든 다 줄테니까!,Castle,None,hesitate,TRUE,None,None
+타르트,흐에엥..,Castle,None,sad,FALSE,None,None
+타르트,...,Castle,None,sad,FALSE,Think,None
+타르트,금화? 얼마나?,Castle,None,smile,FALSE,None,None
+크림,(이 속물..!!!),Castle,None,embrass,FALSE,None,None
+크림,원하는 만큼 줄게! 물론 케이크를 만들어 준다면!,Castle,None,angry,FALSE,None,None
+타르트,마왕성이면 분명 금화가 엄청 많겠지? 금화가 뭐야 다이아몬드에 루비에..,Castle,None,normal,FALSE,None,None
+타르트,좋아! 내가 특별히 케이크를 만들어 줄게!,Castle,None,smile,FALSE,None,None
+크림,.. 뭐 좋아. 금화라고 해도 어짜피 반짝거리기만 하고 쓸모 없어서 눈만 아파지는 고물이니까..,Castle,None,smile,FALSE,None,None
+타르트,케이크라 하면 재료가 중요한데..,Castle,None,normal,FALSE,None,None
+타르트,진짜 진짜 레시피는 없는거야?,Castle,None,cutesad,FALSE,None,None
+크림,응! 근데 엄마가 재료 구할 때 마다 갔던 장소들은 기억 나는거 같아,Castle,None,smile,FALSE,None,None
+크림,그 장소에 가면 어떤 재료였는지 기억이 날것 같기도 한데..,Castle,None,hesitate,FALSE,None,None
+타르트,정말? 생각보다 일이 빨리 풀릴수도 있곘는데?,Castle,None,smile,TRUE,Happy,None
+타르트,그럼 일단 출발이다 출발!! 안내해줄 수 있지?,Castle,None,smile,FALSE,None,None
+크림,안내해 달라며! 같이가!!,Castle,None,embrass,FALSE,None,None

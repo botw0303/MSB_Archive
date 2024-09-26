@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5896723930e00cd458e877f2f5442079, type: 3}
+  m_Name: Fermata
+  m_EditorClassIdentifier: 
+  CardName: "\uCC9C\uCC9C\uD788~"
+  CardType: 0
+  CardVisual: {fileID: 21300000, guid: 61e2f5400f18d0c418fd82bdc07aab51, type: 3}
+  skillPersonalColor: {r: 1, g: 1, b: 1, a: 1}
+  abilityAnimation: {fileID: 7400000, guid: fa0da448e6c6a9845abf8b8b082d79f8, type: 2}
+  cardShameData: {fileID: 11400000, guid: bf18d64870174274e96d8381df677c06, type: 2}
+  cameraSequenceData: {fileID: 11400000, guid: dbfadf25c23ecbd4985e61b3108d6cec, type: 2}
+  clip: {fileID: 8300000, guid: 8fef283772baf5042ae81349317e31c1, type: 3}
+  hitEffect: {fileID: 6323366485217575769, guid: 971de85cfbed0404eb0c45f742358806, type: 3}
+  targetEffect: {fileID: 0}
+  AbillityInfo: "\uC801 \uC804\uCCB4\uC5D0\uAC8C \uC74C\uD45C\uB97C \uB09C\uC0AC!\n<color=#808080ff><size=20>(\uC74C\uC744
+    \uCC9C\uCC9C\uD788 \uACF1\uC539\uC5B4\uBD10!)</size></color>"

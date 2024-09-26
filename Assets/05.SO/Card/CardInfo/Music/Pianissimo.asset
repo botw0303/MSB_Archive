@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5896723930e00cd458e877f2f5442079, type: 3}
+  m_Name: Pianissimo
+  m_EditorClassIdentifier: 
+  CardName: "\uC791\uAC8C~"
+  CardType: 0
+  CardVisual: {fileID: 21300000, guid: cd36dec9b5647624c9e95360da71afb1, type: 3}
+  skillPersonalColor: {r: 1, g: 1, b: 1, a: 1}
+  abilityAnimation: {fileID: 7400000, guid: fa0da448e6c6a9845abf8b8b082d79f8, type: 2}
+  cardShameData: {fileID: 11400000, guid: 3bc50c827973f9248bf8770ae3cb1036, type: 2}
+  cameraSequenceData: {fileID: 11400000, guid: 76a023160b911e642b525d44aca2007a, type: 2}
+  clip: {fileID: 8300000, guid: 32f1af48777b4ba4ba5b8917fa179238, type: 3}
+  hitEffect: {fileID: 6323366485217575769, guid: 971de85cfbed0404eb0c45f742358806, type: 3}
+  targetEffect: {fileID: 0}
+  AbillityInfo: "\uC74C\uD45C \uB450\uAC1C\uB97C \uB0A0\uB824 \uACF5\uACA9!\n<color=#808080ff><size=20>(\uC289!
+    \uC289!)</size></color>"

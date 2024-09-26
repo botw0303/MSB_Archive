@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 922a7ac9b3a2c594095da0427a34bb84, type: 3}
+  m_Name: RunStone
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemName: "\uBC18\uC9DD\uC774 \uB3C4\uB11B"
+  itemInfo: "\uB9C8\uB098\uB97C \uBC18\uC8FD\uD574 \uB9CC\uB4E4\uC5B4\uB0B8 \uB3C4\uB11B."
+  itemIcon: {fileID: 21300000, guid: aeb67a57d6e9f2546b68079acf3c8471, type: 3}
+  dropChance: 50
+  haveCount: 0
+  goodsType: 1

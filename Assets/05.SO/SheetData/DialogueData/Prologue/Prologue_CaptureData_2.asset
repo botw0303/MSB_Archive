@@ -1,0 +1,221 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7effb200d0f1de344b2e77bfb9945581, type: 3}
+  m_Name: Prologue_CaptureData_2
+  m_EditorClassIdentifier: 
+  toCaptureIDX: 100
+  episodeCaptureElement:
+  - captureDataIDX: 1
+    captureElement:
+      activeType: 2
+      movePosition: {x: 599, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 2
+    captureElement:
+      activeType: 2
+      movePosition: {x: 431, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 3
+    captureElement:
+      activeType: 2
+      movePosition: {x: 542, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 8
+    captureElement:
+      activeType: 2
+      movePosition: {x: 89, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 11
+    captureElement:
+      activeType: 2
+      movePosition: {x: 308, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 12
+    captureElement:
+      activeType: 2
+      movePosition: {x: -497, y: -240}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 13
+    captureElement:
+      activeType: 2
+      movePosition: {x: 485, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 16
+    captureElement:
+      activeType: 2
+      movePosition: {x: -309, y: -240}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 17
+    captureElement:
+      activeType: 2
+      movePosition: {x: 382, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 21
+    captureElement:
+      activeType: 2
+      movePosition: {x: 544, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 22
+    captureElement:
+      activeType: 2
+      movePosition: {x: 265, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 23
+    captureElement:
+      activeType: 2
+      movePosition: {x: -454, y: -240}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 24
+    captureElement:
+      activeType: 2
+      movePosition: {x: 137, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 26
+    captureElement:
+      activeType: 2
+      movePosition: {x: -306, y: -240}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 28
+    captureElement:
+      activeType: 2
+      movePosition: {x: 436, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 31
+    captureElement:
+      activeType: 2
+      movePosition: {x: -149, y: -240}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 37
+    captureElement:
+      activeType: 2
+      movePosition: {x: -516, y: -240}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 39
+    captureElement:
+      activeType: 2
+      movePosition: {x: -374, y: -240}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 42
+    captureElement:
+      activeType: 2
+      movePosition: {x: 613, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 46
+    captureElement:
+      activeType: 2
+      movePosition: {x: 80, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 50
+    captureElement:
+      activeType: 2
+      movePosition: {x: 482, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 52
+    captureElement:
+      activeType: 2
+      movePosition: {x: -143, y: -240}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 54
+    captureElement:
+      activeType: 2
+      movePosition: {x: 482, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 59
+    captureElement:
+      activeType: 2
+      movePosition: {x: 300, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 60
+    captureElement:
+      activeType: 2
+      movePosition: {x: -294, y: -240}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 61
+    captureElement:
+      activeType: 2
+      movePosition: {x: 374, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 65
+    captureElement:
+      activeType: 2
+      movePosition: {x: -368, y: -240}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 66
+    captureElement:
+      activeType: 2
+      movePosition: {x: 195, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 67
+    captureElement:
+      activeType: 2
+      movePosition: {x: -263, y: -240}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 68
+    captureElement:
+      activeType: 2
+      movePosition: {x: 357, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 71
+    captureElement:
+      activeType: 2
+      movePosition: {x: -394, y: -240}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 73
+    captureElement:
+      activeType: 2
+      movePosition: {x: 465, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 82
+    captureElement:
+      activeType: 2
+      movePosition: {x: -206, y: -240}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 87
+    captureElement:
+      activeType: 2
+      movePosition: {x: 294, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 88
+    captureElement:
+      activeType: 2
+      movePosition: {x: -400, y: -240}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 89
+    captureElement:
+      activeType: 2
+      movePosition: {x: -235, y: -240}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 94
+    captureElement:
+      activeType: 2
+      movePosition: {x: 183, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 96
+    captureElement:
+      activeType: 2
+      movePosition: {x: -420, y: -240}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 97
+    captureElement:
+      activeType: 2
+      movePosition: {x: -22, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 98
+    captureElement:
+      activeType: 2
+      movePosition: {x: -1389, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 99
+    captureElement:
+      activeType: 2
+      movePosition: {x: -1368, y: -240}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}

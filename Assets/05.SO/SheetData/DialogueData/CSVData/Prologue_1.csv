@@ -1,0 +1,45 @@
+	어느 길드 내부	Guild	None	sad	FALSE	None	None
+타르트	아이고 허리야 ~	Guild	None	sad	FALSE	None	None
+타르트	으 파스 사서 붙여야겠다.. 허리가 쑤셔서 일을 못하겠네	Guild	None	cutesad	FALSE	None	None
+타르트	흐아 어디보자~	Guild	None	hesitate	FALSE	None	None
+타르트	에.. 음..	Guild	None	normal	FALSE	None	None
+타르트	고블린 퇴치 패스~	Guild	None	angry	FALSE	None	None
+타르트	약초 체집 패스~	Guild	None	angry	FALSE	None	None
+타르트	드래곤 사냥?!	Guild	None	embrass	FALSE	None	None
+타르트	은 너무 무서우니까 패스~	Guild	None	cutesad	FALSE	Sad	None
+타르트	...	Guild	None	sad	FALSE	None	None
+타르트	하...그냥 때려칠까?	Guild	None	cutesad	TRUE	None	None
+타르트	매일같이 몬스터 때려잡고 허리아프게 약초 줍고!	Guild	None	cutesad	FALSE	None	None
+타르트	장비도 헐고 허리도 쑤시고!	Guild	None	sad	FALSE	None	None
+타르트	악착같이 번 돈은 장비 맞추랴 병원가랴 다 사라지는데!	Guild	None	angry	TRUE	None	None
+타르트	흐엉엉.. 힘들게 소드마스터 칭호 달면 뭐해!!	Guild	None	sad	FALSE	Sad	None
+타르트	요즘엔 그랜드 소드마스터 얼티밋 소드 마스터 같이 더 삐까 뻔쩍한 칭호도 많아서 나같은 그냥 소드마스터는 명함도 못내미는 시대인데	Guild	None	cutesad	FALSE	None	None
+타르트	으아아!! 억울해!! 옛날엔 최연소 소드마스터다! 장래 유망주다! 엄청 뛰어줬으면서!	Guild	None	sad	FALSE	None	None
+타르트	좀 나이좀 먹었다고 갤갤거리는 뒷방 늙은이로 취급하는거야 뭐야!	Guild	None	cutesad	TRUE	None	None
+타르트	나 아직 17살이거든?! 꽃다운 나이에 모험가한테 너무한거 아니야 정말?!	Guild	None	angry	FALSE	None	None
+타르트	후..	Guild	None	sad	FALSE	None	None
+타르트	아니야 타르트. 넌 할 수 있어! 분명 잘 찾아보면 너를 저 하늘 높이 올려다 줄 명성을 불러올 퀘스트가 있을거라고!	Guild	None	angry	FALSE	None	None
+타르트	흠.. 집중해서 선택해보자..	Guild	None	normal	FALSE	None	None
+타르트	...	Guild	None	normal	FALSE	None	None
+타르트	......	Guild	None	normal	FALSE	None	None
+타르트	그래! 바로 이느낌이야! 바로 이 퀘스트가 날 저 높이 올려줄..	Guild	None	smile	FALSE	None	None
+타르트	올려..	Guild	None	hesitate	FALSE	None	None
+타르트	높이..	Guild	None	hesitate	FALSE	None	None
+타르트	에?!	Guild	None	surprise	FALSE	None	None
+타르트	뭐야이거! 이거 진짜 퀘스트 맞아? 그냥 동네 꼬마가 장난친거 같이 생겼는데	Guild	None	embrass	FALSE	None	None
+타르트	스케치북에 크레파스에 정규 양식은 1도 안지킨 딱봐도 사기인 퀘스트잖아..	Guild	None	embrass	FALSE	None	None
+타르트	아니! 요즘은 사기도 이렇게 안쳐! 너무 수상해서 아무도 수락하지 않을 퀘스트라고!	Guild	None	angry	FALSE	None	None
+타르트	어?	Guild	None	normal	FALSE	None	None
+타르트	잠깐만..	Guild	None	normal	FALSE	None	None
+타르트	오히려 너무 사기라 사기가 아니다?	Guild	None	hesitate	FALSE	Idea	None
+타르트	그래! 아무리 생각해도 이런 퀘스트는 무언가를 암시한다고 밖에 생각할 수 없어.	Guild	None	hesitate	FALSE	None	None
+타르트	잠깐! 그럼 이 퀘스트의 발주자는 나처럼 이 퀘스트의 숨은 뜻을 찾을 사람을 기다리고 있다?	Guild	None	hesitate	FALSE	None	None
+타르트	...	Guild	None	normal	FALSE	None	None
+타르트	큭..	Guild	None	smile	FALSE	None	None
+타르트	큭큭..	Guild	None	smile	FALSE	None	None
+타르트	크하하하하!! 드디어 찾았다!! 내 명성을 높여줄 퀘스트!	Guild	None	smile	TRUE	Sparkle	None
+타르트	이렇게 심장이 뛰는 건 오랜만이야	Guild	None	smile	FALSE	None	None
+타르트	좋아 결정했어. 출발이다!	Guild	None	smile	FALSE	None	None
+타르트	기다려라 내 찬란한 앞길아! 나는 결국 뛰어오르리라!	Guild	None	smile	FALSE	None	None
+	......	Guild	UpToDown	smile	FALSE	None	None
+	그렇다. 타르트는 바보였다.	Guild	Maintain	smile	FALSE	None	None

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f91209248d0dbc344afb07f5fdbed470, type: 3}
+  m_Name: EnemyAtkDownDebuffSynergySO
+  m_EditorClassIdentifier: 
+  SynergyName: "\uC801 \uACF5\uACA9\uB825 \uC57D\uD654"
+  SynergyDesc: "\uC801\uC5D0\uAC8C \uACF5\uACA9\uB825 30 \uD558\uB77D \uB514\uBC84\uD504
+    \uBD80\uC5EC\n(\uD654\uC774\uD2B8 \uC194\uB8E8\uC83C + \uCE94\uB514 \uC2A4\uD2B8\uB9BC
+    \uBC84\uC2A4\uD2B8 + \uD38C\uD0A8 \uD31D)"
+  ImpactCoefficient: 30
+  BuffSO: {fileID: 11400000, guid: 6a12401a297289d4fafd7f22e2eebe9d, type: 2}
+  ImpactType: 12
+  ConditionCheckValue: 3
+  ConditionCards:
+  - {fileID: -5554570068127067684, guid: 42b9630885a7926409f286c35eeec457, type: 3}
+  - {fileID: 3123359521960886650, guid: 4e493646cb0a8e9409ebccfb052b1016, type: 3}
+  - {fileID: 3007661017682430650, guid: f2a2f6db7dcec374aacdf943a2b30633, type: 3}
+  Enable: 1

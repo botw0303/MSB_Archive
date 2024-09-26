@@ -1,0 +1,1180 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4a52b840cdb3be48988144854b13326, type: 3}
+  m_Name: PrologueDialogueData_1
+  m_EditorClassIdentifier: 
+  generateData:
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uC544\uC774\uACE0 \uD5C8\uB9AC\uC57C ~"
+    - Guild
+    - None
+    - sad
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uC73C \uD30C\uC2A4 \uC0AC\uC11C \uBD99\uC5EC\uC57C\uACA0\uB2E4.. \uD5C8\uB9AC\uAC00
+      \uC464\uC154\uC11C \uC77C\uC744 \uBABB\uD558\uACA0\uB124"
+    - Guild
+    - None
+    - cutesad
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uD750\uC544 \uC5B4\uB514\uBCF4\uC790~"
+    - Guild
+    - None
+    - hesitate
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uC5D0.. \uC74C.."
+    - Guild
+    - None
+    - normal
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uACE0\uBE14\uB9B0 \uD1F4\uCE58 \uD328\uC2A4~"
+    - Guild
+    - None
+    - angry
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uC57D\uCD08 \uCCB4\uC9D1 \uD328\uC2A4~"
+    - Guild
+    - None
+    - angry
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uB4DC\uB798\uACE4 \uC0AC\uB0E5?!"
+    - Guild
+    - None
+    - embrass
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uC740 \uB108\uBB34 \uBB34\uC11C\uC6B0\uB2C8\uAE4C \uD328\uC2A4~"
+    - Guild
+    - None
+    - cutesad
+    - FALSE
+    - Sad
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - ...
+    - Guild
+    - None
+    - sad
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uD558...\uADF8\uB0E5 \uB54C\uB824\uCE60\uAE4C?"
+    - Guild
+    - None
+    - cutesad
+    - TRUE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uB9E4\uC77C\uAC19\uC774 \uBAAC\uC2A4\uD130 \uB54C\uB824\uC7A1\uACE0 \uD5C8\uB9AC\uC544\uD504\uAC8C
+      \uC57D\uCD08 \uC90D\uACE0!"
+    - Guild
+    - None
+    - cutesad
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uC7A5\uBE44\uB3C4 \uD5D0\uACE0 \uD5C8\uB9AC\uB3C4 \uC464\uC2DC\uACE0!"
+    - Guild
+    - None
+    - sad
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uC545\uCC29\uAC19\uC774 \uBC88 \uB3C8\uC740 \uC7A5\uBE44 \uB9DE\uCD94\uB7B4
+      \uBCD1\uC6D0\uAC00\uB7B4 \uB2E4 \uC0AC\uB77C\uC9C0\uB294\uB370!"
+    - Guild
+    - None
+    - angry
+    - TRUE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uD750\uC5C9\uC5C9.. \uD798\uB4E4\uAC8C \uC18C\uB4DC\uB9C8\uC2A4\uD130 \uCE6D\uD638
+      \uB2EC\uBA74 \uBB50\uD574!!"
+    - Guild
+    - None
+    - sad
+    - FALSE
+    - Sad
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uC694\uC998\uC5D4 \uADF8\uB79C\uB4DC \uC18C\uB4DC\uB9C8\uC2A4\uD130 \uC5BC\uD2F0\uBC0B
+      \uC18C\uB4DC \uB9C8\uC2A4\uD130 \uAC19\uC774 \uB354 \uC090\uAE4C \uBED4\uCA4D\uD55C
+      \uCE6D\uD638\uB3C4 \uB9CE\uC544\uC11C \uB098\uAC19\uC740 \uADF8\uB0E5 \uC18C\uB4DC\uB9C8\uC2A4\uD130\uB294
+      \uBA85\uD568\uB3C4 \uBABB\uB0B4\uBBF8\uB294 \uC2DC\uB300\uC778\uB370"
+    - Guild
+    - None
+    - cutesad
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uC73C\uC544\uC544!! \uC5B5\uC6B8\uD574!! \uC61B\uB0A0\uC5D4 \uCD5C\uC5F0\uC18C
+      \uC18C\uB4DC\uB9C8\uC2A4\uD130\uB2E4! \uC7A5\uB798 \uC720\uB9DD\uC8FC\uB2E4!
+      \uC5C4\uCCAD \uB6F0\uC5B4\uC92C\uC73C\uBA74\uC11C!"
+    - Guild
+    - None
+    - sad
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uC880 \uB098\uC774\uC880 \uBA39\uC5C8\uB2E4\uACE0 \uAC24\uAC24\uAC70\uB9AC\uB294
+      \uB4B7\uBC29 \uB299\uC740\uC774\uB85C \uCDE8\uAE09\uD558\uB294\uAC70\uC57C
+      \uBB50\uC57C!"
+    - Guild
+    - None
+    - cutesad
+    - TRUE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uB098 \uC544\uC9C1 17\uC0B4\uC774\uAC70\uB4E0?! \uAF43\uB2E4\uC6B4 \uB098\uC774\uC5D0
+      \uBAA8\uD5D8\uAC00\uD55C\uD14C \uB108\uBB34\uD55C\uAC70 \uC544\uB2C8\uC57C
+      \uC815\uB9D0?!"
+    - Guild
+    - None
+    - angry
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uD6C4.."
+    - Guild
+    - None
+    - sad
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uC544\uB2C8\uC57C \uD0C0\uB974\uD2B8. \uB10C \uD560 \uC218 \uC788\uC5B4!
+      \uBD84\uBA85 \uC798 \uCC3E\uC544\uBCF4\uBA74 \uB108\uB97C \uC800 \uD558\uB298
+      \uB192\uC774 \uC62C\uB824\uB2E4 \uC904 \uBA85\uC131\uC744 \uBD88\uB7EC\uC62C
+      \uD018\uC2A4\uD2B8\uAC00 \uC788\uC744\uAC70\uB77C\uACE0!"
+    - Guild
+    - None
+    - angry
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uD760.. \uC9D1\uC911\uD574\uC11C \uC120\uD0DD\uD574\uBCF4\uC790.."
+    - Guild
+    - None
+    - normal
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - ...
+    - Guild
+    - None
+    - normal
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - ......
+    - Guild
+    - None
+    - normal
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uADF8\uB798! \uBC14\uB85C \uC774\uB290\uB08C\uC774\uC57C! \uBC14\uB85C \uC774
+      \uD018\uC2A4\uD2B8\uAC00 \uB0A0 \uC800 \uB192\uC774 \uC62C\uB824\uC904.."
+    - Guild
+    - None
+    - smile
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uC62C\uB824.."
+    - Guild
+    - None
+    - hesitate
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uB192\uC774.."
+    - Guild
+    - None
+    - hesitate
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uC5D0?!"
+    - Guild
+    - None
+    - surprise
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uBB50\uC57C\uC774\uAC70! \uC774\uAC70 \uC9C4\uC9DC \uD018\uC2A4\uD2B8 \uB9DE\uC544?
+      \uADF8\uB0E5 \uB3D9\uB124 \uAF2C\uB9C8\uAC00 \uC7A5\uB09C\uCE5C\uAC70 \uAC19\uC774
+      \uC0DD\uACBC\uB294\uB370"
+    - Guild
+    - None
+    - embrass
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uC2A4\uCF00\uCE58\uBD81\uC5D0 \uD06C\uB808\uD30C\uC2A4\uC5D0 \uC815\uADDC
+      \uC591\uC2DD\uC740 1\uB3C4 \uC548\uC9C0\uD0A8 \uB531\uBD10\uB3C4 \uC0AC\uAE30\uC778
+      \uD018\uC2A4\uD2B8\uC796\uC544.."
+    - Guild
+    - None
+    - embrass
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uC544\uB2C8! \uC694\uC998\uC740 \uC0AC\uAE30\uB3C4 \uC774\uB807\uAC8C \uC548\uCCD0!
+      \uB108\uBB34 \uC218\uC0C1\uD574\uC11C \uC544\uBB34\uB3C4 \uC218\uB77D\uD558\uC9C0
+      \uC54A\uC744 \uD018\uC2A4\uD2B8\uB77C\uACE0!"
+    - Guild
+    - None
+    - angry
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uC5B4?"
+    - Guild
+    - None
+    - normal
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uC7A0\uAE50\uB9CC.."
+    - Guild
+    - None
+    - normal
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uC624\uD788\uB824 \uB108\uBB34 \uC0AC\uAE30\uB77C \uC0AC\uAE30\uAC00 \uC544\uB2C8\uB2E4?"
+    - Guild
+    - None
+    - hesitate
+    - TRUE
+    - Idea
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uADF8\uB798! \uC544\uBB34\uB9AC \uC0DD\uAC01\uD574\uB3C4 \uC774\uB7F0 \uD018\uC2A4\uD2B8\uB294
+      \uBB34\uC5B8\uAC00\uB97C \uC554\uC2DC\uD55C\uB2E4\uACE0 \uBC16\uC5D0 \uC0DD\uAC01\uD560
+      \uC218 \uC5C6\uC5B4."
+    - Guild
+    - None
+    - hesitate
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uC7A0\uAE50! \uADF8\uB7FC \uC774 \uD018\uC2A4\uD2B8\uC758 \uBC1C\uC8FC\uC790\uB294
+      \uB098\uCC98\uB7FC \uC774 \uD018\uC2A4\uD2B8\uC758 \uC228\uC740 \uB73B\uC744
+      \uCC3E\uC744 \uC0AC\uB78C\uC744 \uAE30\uB2E4\uB9AC\uACE0 \uC788\uB2E4?"
+    - Guild
+    - None
+    - hesitate
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - ...
+    - Guild
+    - None
+    - normal
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uD06D.."
+    - Guild
+    - None
+    - smile
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uD06D\uD06D.."
+    - Guild
+    - None
+    - smile
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uD06C\uD558\uD558\uD558\uD558!! \uB4DC\uB514\uC5B4 \uCC3E\uC558\uB2E4!! \uB0B4
+      \uBA85\uC131\uC744 \uB192\uC5EC\uC904 \uD018\uC2A4\uD2B8!"
+    - Guild
+    - None
+    - smile
+    - TRUE
+    - Sparkle
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uC774\uB807\uAC8C \uC2EC\uC7A5\uC774 \uB6F0\uB294 \uAC74 \uC624\uB79C\uB9CC\uC774\uC57C"
+    - Guild
+    - None
+    - smile
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uC88B\uC544 \uACB0\uC815\uD588\uC5B4. \uCD9C\uBC1C\uC774\uB2E4!"
+    - Guild
+    - None
+    - smile
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - "\uD0C0\uB974\uD2B8"
+    - "\uAE30\uB2E4\uB824\uB77C \uB0B4 \uCC2C\uB780\uD55C \uC55E\uAE38\uC544! \uB098\uB290
+      \uACB0\uAD6D \uB6F0\uC5B4\uC624\uB974\uB9AC\uB77C!"
+    - Guild
+    - None
+    - smile
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - 
+    - ......
+    - Guild
+    - UpToDown
+    - smile
+    - FALSE
+    - None
+    - "None\r"
+  - str:
+    - 
+    - "\uADF8\uB807\uB2E4. \uD0C0\uB974\uD2B8\uB294 \uBC14\uBCF4\uC600\uB2E4."
+    - Guild
+    - Maintain
+    - smile
+    - FALSE
+    - None
+    - "None\r"
+  toReadCsvFile: {fileID: 4900000, guid: 650c58623d3e9f143a11337d8982c919, type: 3}
+  cellRange: A2:H45
+  isAlreadyLook: 0
+  captureData: {fileID: 11400000, guid: 3f557be75361b024cacfb8b0c69a5fd7, type: 2}
+  dialogueElement:
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uC544\uC774\uACE0 \uD5C8\uB9AC\uC57C ~"
+      backGroundType: 2
+    characterElement:
+      faceType: 4
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 2
+      movePosition: {x: 643, y: -263}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uC73C \uD30C\uC2A4 \uC0AC\uC11C \uBD99\uC5EC\uC57C\uACA0\uB2E4..
+        \uD5C8\uB9AC\uAC00 \uC464\uC154\uC11C \uC77C\uC744 \uBABB\uD558\uACA0\uB124"
+      backGroundType: 2
+    characterElement:
+      faceType: 5
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 2
+      movePosition: {x: 526, y: -263}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uD750\uC544 \uC5B4\uB514\uBCF4\uC790~"
+      backGroundType: 2
+    characterElement:
+      faceType: 0
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 2
+      movePosition: {x: 110, y: -263}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uC5D0.. \uC74C.."
+      backGroundType: 2
+    characterElement:
+      faceType: 7
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uACE0\uBE14\uB9B0 \uD1F4\uCE58 \uD328\uC2A4~"
+      backGroundType: 2
+    characterElement:
+      faceType: 3
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uC57D\uCD08 \uCCB4\uC9D1 \uD328\uC2A4~"
+      backGroundType: 2
+    characterElement:
+      faceType: 3
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uB4DC\uB798\uACE4 \uC0AC\uB0E5?!"
+      backGroundType: 2
+    characterElement:
+      faceType: 6
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uC740 \uB108\uBB34 \uBB34\uC11C\uC6B0\uB2C8\uAE4C \uD328\uC2A4~"
+      backGroundType: 2
+    characterElement:
+      faceType: 5
+      isShake: 0
+      emotionType: 2
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: ...
+      backGroundType: 2
+    characterElement:
+      faceType: 4
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uD558...\uADF8\uB0E5 \uB54C\uB824\uCE60\uAE4C?"
+      backGroundType: 2
+    characterElement:
+      faceType: 5
+      isShake: 1
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uB9E4\uC77C\uAC19\uC774 \uBAAC\uC2A4\uD130 \uB54C\uB824\uC7A1\uACE0
+        \uD5C8\uB9AC\uC544\uD504\uAC8C \uC57D\uCD08 \uC90D\uACE0!"
+      backGroundType: 2
+    characterElement:
+      faceType: 5
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uC7A5\uBE44\uB3C4 \uD5D0\uACE0 \uD5C8\uB9AC\uB3C4 \uC464\uC2DC\uACE0!"
+      backGroundType: 2
+    characterElement:
+      faceType: 4
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uC545\uCC29\uAC19\uC774 \uBC88 \uB3C8\uC740 \uC7A5\uBE44 \uB9DE\uCD94\uB7B4
+        \uBCD1\uC6D0\uAC00\uB7B4 \uB2E4 \uC0AC\uB77C\uC9C0\uB294\uB370!"
+      backGroundType: 2
+    characterElement:
+      faceType: 3
+      isShake: 1
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uD750\uC5C9\uC5C9.. \uD798\uB4E4\uAC8C \uC18C\uB4DC\uB9C8\uC2A4\uD130
+        \uCE6D\uD638 \uB2EC\uBA74 \uBB50\uD574!!"
+      backGroundType: 2
+    characterElement:
+      faceType: 4
+      isShake: 0
+      emotionType: 2
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uC694\uC998\uC5D4 \uADF8\uB79C\uB4DC \uC18C\uB4DC\uB9C8\uC2A4\uD130
+        \uC5BC\uD2F0\uBC0B \uC18C\uB4DC \uB9C8\uC2A4\uD130 \uAC19\uC774 \uB354 \uC090\uAE4C
+        \uBED4\uCA4D\uD55C \uCE6D\uD638\uB3C4 \uB9CE\uC544\uC11C \uB098\uAC19\uC740
+        \uADF8\uB0E5 \uC18C\uB4DC\uB9C8\uC2A4\uD130\uB294 \uBA85\uD568\uB3C4 \uBABB\uB0B4\uBBF8\uB294
+        \uC2DC\uB300\uC778\uB370"
+      backGroundType: 2
+    characterElement:
+      faceType: 5
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uC73C\uC544\uC544!! \uC5B5\uC6B8\uD574!! \uC61B\uB0A0\uC5D4 \uCD5C\uC5F0\uC18C
+        \uC18C\uB4DC\uB9C8\uC2A4\uD130\uB2E4! \uC7A5\uB798 \uC720\uB9DD\uC8FC\uB2E4!
+        \uC5C4\uCCAD \uB6F0\uC5B4\uC92C\uC73C\uBA74\uC11C!"
+      backGroundType: 2
+    characterElement:
+      faceType: 4
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uC880 \uB098\uC774\uC880 \uBA39\uC5C8\uB2E4\uACE0 \uAC24\uAC24\uAC70\uB9AC\uB294
+        \uB4B7\uBC29 \uB299\uC740\uC774\uB85C \uCDE8\uAE09\uD558\uB294\uAC70\uC57C
+        \uBB50\uC57C!"
+      backGroundType: 2
+    characterElement:
+      faceType: 5
+      isShake: 1
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uB098 \uC544\uC9C1 17\uC0B4\uC774\uAC70\uB4E0?! \uAF43\uB2E4\uC6B4
+        \uB098\uC774\uC5D0 \uBAA8\uD5D8\uAC00\uD55C\uD14C \uB108\uBB34\uD55C\uAC70
+        \uC544\uB2C8\uC57C \uC815\uB9D0?!"
+      backGroundType: 2
+    characterElement:
+      faceType: 3
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uD6C4.."
+      backGroundType: 2
+    characterElement:
+      faceType: 4
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uC544\uB2C8\uC57C \uD0C0\uB974\uD2B8. \uB10C \uD560 \uC218 \uC788\uC5B4!
+        \uBD84\uBA85 \uC798 \uCC3E\uC544\uBCF4\uBA74 \uB108\uB97C \uC800 \uD558\uB298
+        \uB192\uC774 \uC62C\uB824\uB2E4 \uC904 \uBA85\uC131\uC744 \uBD88\uB7EC\uC62C
+        \uD018\uC2A4\uD2B8\uAC00 \uC788\uC744\uAC70\uB77C\uACE0!"
+      backGroundType: 2
+    characterElement:
+      faceType: 3
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 2
+      movePosition: {x: -45, y: -263}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uD760.. \uC9D1\uC911\uD574\uC11C \uC120\uD0DD\uD574\uBCF4\uC790.."
+      backGroundType: 2
+    characterElement:
+      faceType: 7
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 2
+      movePosition: {x: 599, y: -263}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: ...
+      backGroundType: 2
+    characterElement:
+      faceType: 7
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: ......
+      backGroundType: 2
+    characterElement:
+      faceType: 7
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uADF8\uB798! \uBC14\uB85C \uC774\uB290\uB08C\uC774\uC57C! \uBC14\uB85C
+        \uC774 \uD018\uC2A4\uD2B8\uAC00 \uB0A0 \uC800 \uB192\uC774 \uC62C\uB824\uC904.."
+      backGroundType: 2
+    characterElement:
+      faceType: 1
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 2
+      movePosition: {x: 599, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 21300000, guid: cefc726b7ab2b1e4b81370ddbb68a285, type: 3}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uC62C\uB824.."
+      backGroundType: 2
+    characterElement:
+      faceType: 0
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 21300000, guid: cefc726b7ab2b1e4b81370ddbb68a285, type: 3}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uB192\uC774.."
+      backGroundType: 2
+    characterElement:
+      faceType: 0
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 21300000, guid: cefc726b7ab2b1e4b81370ddbb68a285, type: 3}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uC5D0?!"
+      backGroundType: 2
+    characterElement:
+      faceType: 2
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 21300000, guid: cefc726b7ab2b1e4b81370ddbb68a285, type: 3}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uBB50\uC57C\uC774\uAC70! \uC774\uAC70 \uC9C4\uC9DC \uD018\uC2A4\uD2B8
+        \uB9DE\uC544? \uADF8\uB0E5 \uB3D9\uB124 \uAF2C\uB9C8\uAC00 \uC7A5\uB09C\uCE5C\uAC70
+        \uAC19\uC774 \uC0DD\uACBC\uB294\uB370"
+      backGroundType: 2
+    characterElement:
+      faceType: 6
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 2
+      movePosition: {x: 599, y: -232}
+      rotationValue: {x: 0, y: 0, z: -0.07628405, w: 0.99708617}
+    priviewSprite: {fileID: 21300000, guid: cefc726b7ab2b1e4b81370ddbb68a285, type: 3}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uC2A4\uCF00\uCE58\uBD81\uC5D0 \uD06C\uB808\uD30C\uC2A4\uC5D0 \uC815\uADDC
+        \uC591\uC2DD\uC740 1\uB3C4 \uC548\uC9C0\uD0A8 \uB531\uBD10\uB3C4 \uC0AC\uAE30\uC778
+        \uD018\uC2A4\uD2B8\uC796\uC544.."
+      backGroundType: 2
+    characterElement:
+      faceType: 6
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 2
+      movePosition: {x: 599, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 21300000, guid: cefc726b7ab2b1e4b81370ddbb68a285, type: 3}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uC544\uB2C8! \uC694\uC998\uC740 \uC0AC\uAE30\uB3C4 \uC774\uB807\uAC8C
+        \uC548\uCCD0! \uB108\uBB34 \uC218\uC0C1\uD574\uC11C \uC544\uBB34\uB3C4 \uC218\uB77D\uD558\uC9C0
+        \uC54A\uC744 \uD018\uC2A4\uD2B8\uB77C\uACE0!"
+      backGroundType: 2
+    characterElement:
+      faceType: 3
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uC5B4?"
+      backGroundType: 2
+    characterElement:
+      faceType: 7
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uC7A0\uAE50\uB9CC.."
+      backGroundType: 2
+    characterElement:
+      faceType: 7
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uC624\uD788\uB824 \uB108\uBB34 \uC0AC\uAE30\uB77C \uC0AC\uAE30\uAC00
+        \uC544\uB2C8\uB2E4?"
+      backGroundType: 2
+    characterElement:
+      faceType: 0
+      isShake: 1
+      emotionType: 4
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 2
+      movePosition: {x: -13, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uADF8\uB798! \uC544\uBB34\uB9AC \uC0DD\uAC01\uD574\uB3C4 \uC774\uB7F0
+        \uD018\uC2A4\uD2B8\uB294 \uBB34\uC5B8\uAC00\uB97C \uC554\uC2DC\uD55C\uB2E4\uACE0
+        \uBC16\uC5D0 \uC0DD\uAC01\uD560 \uC218 \uC5C6\uC5B4."
+      backGroundType: 2
+    characterElement:
+      faceType: 0
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uC7A0\uAE50! \uADF8\uB7FC \uC774 \uD018\uC2A4\uD2B8\uC758 \uBC1C\uC8FC\uC790\uB294
+        \uB098\uCC98\uB7FC \uC774 \uD018\uC2A4\uD2B8\uC758 \uC228\uC740 \uB73B\uC744
+        \uCC3E\uC744 \uC0AC\uB78C\uC744 \uAE30\uB2E4\uB9AC\uACE0 \uC788\uB2E4?"
+      backGroundType: 2
+    characterElement:
+      faceType: 0
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: ...
+      backGroundType: 2
+    characterElement:
+      faceType: 7
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uD06D.."
+      backGroundType: 2
+    characterElement:
+      faceType: 1
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uD06D\uD06D.."
+      backGroundType: 2
+    characterElement:
+      faceType: 1
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uD06C\uD558\uD558\uD558\uD558!! \uB4DC\uB514\uC5B4 \uCC3E\uC558\uB2E4!!
+        \uB0B4 \uBA85\uC131\uC744 \uB192\uC5EC\uC904 \uD018\uC2A4\uD2B8!"
+      backGroundType: 2
+    characterElement:
+      faceType: 1
+      isShake: 1
+      emotionType: 7
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uC774\uB807\uAC8C \uC2EC\uC7A5\uC774 \uB6F0\uB294 \uAC74 \uC624\uB79C\uB9CC\uC774\uC57C"
+      backGroundType: 2
+    characterElement:
+      faceType: 1
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 2
+      movePosition: {x: 87, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uC88B\uC544 \uACB0\uC815\uD588\uC5B4. \uCD9C\uBC1C\uC774\uB2E4!"
+      backGroundType: 2
+    characterElement:
+      faceType: 1
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: "\uD0C0\uB974\uD2B8"
+      sentence: "\uAE30\uB2E4\uB824\uB77C \uB0B4 \uCC2C\uB780\uD55C \uC55E\uAE38\uC544!
+        \uB098\uB290 \uACB0\uAD6D \uB6F0\uC5B4\uC624\uB974\uB9AC\uB77C!"
+      backGroundType: 2
+    characterElement:
+      faceType: 1
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 2
+      movePosition: {x: -1359, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: 
+      sentence: ......
+      backGroundType: 2
+    characterElement:
+      faceType: 1
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0
+  - standardElement:
+      name: 
+      sentence: "\uADF8\uB807\uB2E4. \uD0C0\uB974\uD2B8\uB294 \uBC14\uBCF4\uC600\uB2E4."
+      backGroundType: 2
+    characterElement:
+      faceType: 1
+      isShake: 0
+      emotionType: 0
+    productElement:
+      fadeType: 0
+    captureElement:
+      activeType: 0
+      movePosition: {x: 0, y: 0}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+    priviewSprite: {fileID: 0}
+    isLinker: 0

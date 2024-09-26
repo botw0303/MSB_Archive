@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5896723930e00cd458e877f2f5442079, type: 3}
+  m_Name: WaterHarpoon
+  m_EditorClassIdentifier: 
+  CardName: "\uBB3C \uC791\uC0B4"
+  CardType: 0
+  CardVisual: {fileID: 21300000, guid: e20b956e4e0ee7940b0f6f7d3f7576cf, type: 3}
+  skillPersonalColor: {r: 1, g: 1, b: 1, a: 1}
+  abilityAnimation: {fileID: 7400000, guid: fa0da448e6c6a9845abf8b8b082d79f8, type: 2}
+  cardShameData: {fileID: 11400000, guid: 6fe109f1393ab5d499f0b663e8af77b2, type: 2}
+  cameraSequenceData: {fileID: 11400000, guid: 76a023160b911e642b525d44aca2007a, type: 2}
+  hitEffect: {fileID: 5707751706223794990, guid: c0faa245bd7c2bc4087a5af8edcea92a, type: 3}
+  targetEffect: {fileID: 0}
+  AbillityInfo: "\uBB3C\uC758 \uC791\uC0B4\uC744 \uC801\uC5D0\uAC8C \uBC1C\uC0AC!\n<color=#808080ff><size=20>(\uC557
+    \uCC28\uAC70!)</size></color>"

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3188bf866bca4a48b646ae953e1637a, type: 3}
+  m_Name: SoraStat
+  m_EditorClassIdentifier: 
+  characterName: "\uC18C\uB77C"
+  characterVisual: {fileID: 323182755, guid: 64553cd39ebf4ef41a6fc939f9c96b01, type: 3}
+  maxHealth:
+    _baseValue: 30
+    modifiers: 
+  armor:
+    _baseValue: 1
+    modifiers: 
+  receivedDmgIncreaseValue:
+    _baseValue: 1
+    modifiers: 
+  damage:
+    _baseValue: 15
+    modifiers: 
+  criticalChance:
+    _baseValue: 10
+    modifiers: 
+  criticalDamage:
+    _baseValue: 50
+    modifiers: 
+  _dropItem: {fileID: 11400000, guid: 45eaa2a956d3bfd4ca8ed450c27e1f25, type: 2}
+  _level: 0
+  _percentageModifier: 0
+  attackCnt: 1

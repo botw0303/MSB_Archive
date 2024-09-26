@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5896723930e00cd458e877f2f5442079, type: 3}
+  m_Name: LightningRod
+  m_EditorClassIdentifier: 
+  CardName: "\uD53C\uB8B0\uCE68"
+  CardType: 0
+  CardVisual: {fileID: 21300000, guid: 0ec810db716d225478a9138b7060fabe, type: 3}
+  skillPersonalColor: {r: 1, g: 1, b: 1, a: 1}
+  abilityAnimation: {fileID: 7400000, guid: fa0da448e6c6a9845abf8b8b082d79f8, type: 2}
+  cardShameData: {fileID: 11400000, guid: c621e1857b65665408e71ca65f5ac41c, type: 2}
+  cameraSequenceData: {fileID: 11400000, guid: ca9dd688ccd46684689f9da0a34e9d4c, type: 2}
+  hitEffect: {fileID: 0}
+  targetEffect: {fileID: 0}
+  AbillityInfo: "\uC801\uB4E4\uC758 \uAC10\uC804\uC744 \uD761\uC218\uD574 \uD0C0\uB974\uD2B8\uC758
+    \uACF5\uACA9\uB825\uC73C\uB85C \uBCC0\uD658!\n<color=#808080ff><size=20>(\uBB34\uC2A8\uBB34\uC2A8
+    \uC6D0\uB9AC\uB85C \uC544\uBB34\uD2BC \uC384\uC9C4\uB2E4!)</size></color>"

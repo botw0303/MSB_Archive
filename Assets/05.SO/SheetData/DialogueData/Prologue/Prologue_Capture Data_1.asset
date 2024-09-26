@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7effb200d0f1de344b2e77bfb9945581, type: 3}
+  m_Name: Prologue_Capture Data_1
+  m_EditorClassIdentifier: 
+  toCaptureIDX: 24
+  episodeCaptureElement:
+  - captureDataIDX: 0
+    captureElement:
+      activeType: 2
+      movePosition: {x: 643, y: -263}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 1
+    captureElement:
+      activeType: 2
+      movePosition: {x: 526, y: -263}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 2
+    captureElement:
+      activeType: 2
+      movePosition: {x: 110, y: -263}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 19
+    captureElement:
+      activeType: 2
+      movePosition: {x: -45, y: -263}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 20
+    captureElement:
+      activeType: 2
+      movePosition: {x: 599, y: -263}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 27
+    captureElement:
+      activeType: 2
+      movePosition: {x: 599, y: -232}
+      rotationValue: {x: 0, y: 0, z: -0.07628405, w: 0.99708617}
+  - captureDataIDX: 28
+    captureElement:
+      activeType: 2
+      movePosition: {x: 599, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 32
+    captureElement:
+      activeType: 2
+      movePosition: {x: -13, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 39
+    captureElement:
+      activeType: 2
+      movePosition: {x: 87, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 41
+    captureElement:
+      activeType: 2
+      movePosition: {x: -1359, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 23
+    captureElement:
+      activeType: 2
+      movePosition: {x: 599, y: -232}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}

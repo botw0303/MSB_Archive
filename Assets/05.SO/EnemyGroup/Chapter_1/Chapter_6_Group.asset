@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec4d677312a353944aed915d2d685650, type: 3}
+  m_Name: Chapter_6_Group
+  m_EditorClassIdentifier: 
+  firstSpawns: []
+  enemies:
+  - {fileID: 3589590891568919871, guid: 313e50ed1d39bd749a2fabaef1c044de, type: 3}
+  - {fileID: 449017919904322832, guid: 6189a26dde937af4e920beff345a6121, type: 3}
+  - {fileID: 53557295238351374, guid: fc010ad45b65f124fbb5b0af73143e87, type: 3}
+  - {fileID: 159784293569747907, guid: d7fb82e86cd21d640b077e93f7990689, type: 3}
+  - {fileID: 9124964992351494015, guid: ab54b5f8e39df3b439d4bcf7e909ade2, type: 3}
